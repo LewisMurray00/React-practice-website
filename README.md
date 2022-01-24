@@ -1,3 +1,14 @@
+## Project Journey:
+
+### Day 1: 
+- Set up the react project
+- Downloaded the needed packages
+
+### Day 2:
+- Created the Navbar and all its functionality
+- Added the ablity to use Font awesome for icon images
+- Started the button component
+
 ## React-Router-Dom Guide
 
 - <Link> renders an <a> with a real href
