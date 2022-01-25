@@ -9,3 +9,42 @@
     border: none;
     cursor: pointer;
 }
+
+/* Styling for the STYLES array */
+
+/* First of the styling for the STYLES array */
+.btn--primary {
+    background-color: var(--primary);
+    color: #242424;
+    border: 1px solid var(--primary);
+}
+
+/* Second of the styling for the STYLES array */
+.btn--outline{
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+}
+
+/* Styling for the SIZES array */
+
+/* First of the styling for the SIZES array */
+.btn--medium{
+    padding: 8px 20px;
+    font-size: 20px;
+}
+
+/* Second of the styling for the SIZES array */
+.btn--large{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+/* Creating the button 'hover' effect */
+.btn--medium:hover, .btn--large:hover {
+    background: var(--primary);
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
