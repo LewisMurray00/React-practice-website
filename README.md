@@ -10,7 +10,8 @@
 - Started the button component
 
 ### Day 3:
-- Button component created, with two different style variables
+- Button component created, with two different style variables in each array
+- Button component styled
 
 ## React-Router-Dom Guide
 
