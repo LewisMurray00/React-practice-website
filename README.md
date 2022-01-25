@@ -9,6 +9,9 @@
 - Added the ablity to use Font awesome for icon images
 - Started the button component
 
+### Day 3:
+- Button component created, with two different style variables
+
 ## React-Router-Dom Guide
 
 - <Link> renders an <a> with a real href
