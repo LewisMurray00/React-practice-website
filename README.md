@@ -12,7 +12,12 @@
 ### Day 3:
 - Button component created, with two different style variables in each array
 - Button component styled
-- Created a function that is invoked on screen resize that adds and removes a button depending on the screen size 
+- Created a function that is invoked on screen resize that adds and removes a button depending on the screen size
+
+### Day 4
+- Navbar styled
+- Navbar styled for screens less than 960px
+
 
 ## React-Router-Dom Guide
 
