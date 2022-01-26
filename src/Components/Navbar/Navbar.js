@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '../Button/Button';
 import './Navbar.css'
@@ -28,6 +28,11 @@ function Navbar() {
         }
     };
 
+    //Removes the button that is supposed to be hidden on smaller screens that appears upon screen refresh
+    useEffect(()=>{
+        showButton();
+    }, []);
+
     //Invokes the button
     window.addEventListener('resize', showButton);
 
@@ -37,7 +42,7 @@ function Navbar() {
      <nav className="navbar">
         <div className="navbar-container">
             {/* Link replaces the A tag (react-router)*/}
-            <Link to="/" className="navbar-logo">
+            <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
                 JW Constructions
             </Link>
             

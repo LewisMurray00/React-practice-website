@@ -17,6 +17,9 @@
 ### Day 4
 - Navbar styled
 - Navbar styled for screens less than 960px
+- Added some global styles in the App.css file
+- Fixed an issue where the sign up button was appearing on refresh, when screen was small, using useEffect
+- Created component folder for the hero section including js and css file
 
 
 ## React-Router-Dom Guide
