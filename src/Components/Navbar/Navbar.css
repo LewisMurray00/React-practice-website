@@ -55,3 +55,21 @@
     padding: 0.5rem 1rem;
     height: 100%;
 }
+
+.nav-links:hover{
+    border-bottom: 4px solid #fff;
+    transition: all 0.2s ease-out;
+}
+
+/* Hides the hamburger bar on a normal sized screen */
+.fa-bars{
+    color: #fff;
+}
+
+.nav-links-mobile{
+    display: none;
+}
+
+.menu-icon{
+    display: none;
+}
