@@ -21,6 +21,12 @@
 - Fixed an issue where the sign up button was appearing on refresh, when screen was small, using useEffect
 - Created component folder for the hero section including js and css file
 
+### Day 5
+- Hero.js created and coded
+- Hero.js Styled
+- Created folder for pages
+- Created a Home.js component within that pages folder
+
 
 ## React-Router-Dom Guide
 
