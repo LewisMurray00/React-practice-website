@@ -1,5 +1,5 @@
 import React from 'react';
-import 'C:\Users\Lewis\Documents\coding-projects\react-practice-website\src\App.js'
+import '../../App.css'
 import { Button } from '../Button/Button'
 import './HeroSection.css'
 
