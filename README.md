@@ -27,6 +27,12 @@
 - Created folder for pages
 - Created a Home.js component within that pages folder
 
+### Day 6
+- Home.js file has the Hero.js imported
+- HeroSection.js styling finished
+- HeroSection.js has been made responsive
+- Created CardItem component folder with JS and CSS file to go in
+
 
 ## React-Router-Dom Guide
 
