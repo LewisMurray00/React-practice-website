@@ -33,6 +33,11 @@
 - HeroSection.js has been made responsive
 - Created CardItem component folder with JS and CSS file to go in
 
+### Day 7
+- Created a cards component folder with the matching js and css files
+- CardItem.js set up ready to recieve information from the cards
+- Wrote the code for the Cards.js and displayed that on the home page
+
 
 ## React-Router-Dom Guide
 
