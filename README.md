@@ -38,6 +38,11 @@
 - CardItem.js set up ready to recieve information from the cards
 - Wrote the code for the Cards.js and displayed that on the home page
 
+### Day 8
+- Added some CSS for the Cards.js file
+- Added some CSS for the CardItem.js file
+- Made the CSS files responsive
+
 
 ## React-Router-Dom Guide
 
