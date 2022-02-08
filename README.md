@@ -42,6 +42,7 @@
 - Added some CSS for the Cards.js file
 - Added some CSS for the CardItem.js file
 - Made the CSS files responsive
+- Passed props through the CardItem.js into the Cards.js
 
 
 ## React-Router-Dom Guide
