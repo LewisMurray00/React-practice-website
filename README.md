@@ -45,6 +45,7 @@
 - Passed props through the CardItem.js into the Cards.js
 - Fixed a problem with the images
 - Created new pages and linked them with the router
+- Created the Footer folder
 
 
 ## React-Router-Dom Guide
