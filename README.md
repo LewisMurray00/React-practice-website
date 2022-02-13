@@ -47,6 +47,10 @@
 - Created new pages and linked them with the router
 - Created the Footer folder
 
+### Day 9
+- Created the Footer.js file and added some JSX to it 
+- Created the Footer.css and styled the container
+
 
 ## React-Router-Dom Guide
 
