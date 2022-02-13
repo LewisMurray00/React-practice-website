@@ -1,6 +1,7 @@
 import React from 'react';
 import { Button } from '../Button/Button';
 import './Footer.css'
+import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
@@ -19,6 +20,16 @@ function Footer() {
                 </form>
             </div>
         </section>
+        <div className='footer-links'>
+            <div className='footer-link-wrapper'>
+                <div className='footer-link-items'>
+                    <Link to='/'>Home</Link>
+                    <Link to='our-work'>Our work</Link>
+                    <Link to='reviews'>Reviews</Link>
+                    <Link to='contact-us'>Contact us</Link>
+                </div>
+            </div>
+        </div>
       </div>
 
   );
