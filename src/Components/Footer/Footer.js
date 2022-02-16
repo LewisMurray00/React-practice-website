@@ -6,20 +6,6 @@ import { Link } from 'react-router-dom';
 function Footer() {
   return (
       <div className='footer-container'>
-        <section className='footer-subscription'>
-            <p className='footer-subscription-heading'>
-                Like our work?
-            </p>
-            <p className='footer-subscription-text'>
-                Email us here!
-            </p>
-            <div className='input-areas'>
-                <form>
-                    <input type="email" name="email" placeholder="Your Email" className='footer-input'/>
-                    <Button buttonStyle='btn--outline'>Subscribe</Button>
-                </form>
-            </div>
-        </section>
         <div className='footer-links'>
             <div className='footer-link-wrapper'>
                 <div className='footer-link-items'>
@@ -29,10 +15,18 @@ function Footer() {
                     <Link to='reviews'>Reviews</Link>
                     <Link to='contact-us'>Contact us</Link>
                 </div>
+                <div className='footer-link-items'>
+                    <h2>Contact us</h2>
+                    <Link to='/'>Contact</Link>
+                    <Link to='our-work'>Support</Link>
+                    <Link to='reviews'>Destinations</Link>
+                    <Link to='contact-us'>Sponsorships</Link>
+                </div>
             </div>
         </div>
         <section className="social-media">
             <div className='social-media-wrap'>
+                <small className='website-rights'>JWConstructionLTD 2022</small>
                 <div className='social-icons'>
                     <Link to='/' target="_blank" aria-label="Facebook"  className='social-icon-link facebook'>
                         <i className="fab fa-facebook"/>
@@ -44,7 +38,7 @@ function Footer() {
                         <i className="fab fa-whatsapp"/>
                     </Link>
                 </div>
-                <small className='website-rights'>JWConstructionLTD 2022</small>
+                
             </div>
         </section>
       </div>
