@@ -11,17 +11,10 @@ function HeroSection() {
         <div className="hero-btns">
             <Button 
             className="btns"
-            buttonStyle="btn--outline" 
-            buttonSize="btn--large"
-            >
-                Begin
-            </Button>
-            <Button 
-            className="btns"
             buttonStyle="btn--primary" 
             buttonSize="btn--large"
             >
-                See video <i className="far fa-play-circle"/>
+                Contact us <i className="far fa-play-circle"/>
             </Button>
         </div>
     </div>
