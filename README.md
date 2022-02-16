@@ -51,6 +51,12 @@
 - Created the Footer.js file and added some JSX to it 
 - Created the Footer.css and styled the container
 
+### Day 10
+- Finished the JSX for the Footer.js file
+- Finished the styling for the Footer.css file
+- Made the footer responsive (although not happy may redo)
+
+
 
 ## React-Router-Dom Guide
 
