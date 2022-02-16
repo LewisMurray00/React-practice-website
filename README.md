@@ -55,6 +55,7 @@
 - Finished the JSX for the Footer.js file
 - Finished the styling for the Footer.css file
 - Made the footer responsive (although not happy may redo)
+- Restyled the Navbar
 
 
 
