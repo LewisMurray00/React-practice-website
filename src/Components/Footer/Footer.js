@@ -8,10 +8,10 @@ function Footer() {
       <div className='footer-container'>
         <section className='footer-subscription'>
             <p className='footer-subscription-heading'>
-                Subscribe to see our work!
+                Like our work?
             </p>
             <p className='footer-subscription-text'>
-                You can unsubscribe at any time
+                Email us here!
             </p>
             <div className='input-areas'>
                 <form>
@@ -23,6 +23,7 @@ function Footer() {
         <div className='footer-links'>
             <div className='footer-link-wrapper'>
                 <div className='footer-link-items'>
+                    <h2>Pages</h2>
                     <Link to='/'>Home</Link>
                     <Link to='our-work'>Our work</Link>
                     <Link to='reviews'>Reviews</Link>
@@ -30,6 +31,22 @@ function Footer() {
                 </div>
             </div>
         </div>
+        <section className="social-media">
+            <div className='social-media-wrap'>
+                <div className='social-icons'>
+                    <Link to='/' target="_blank" aria-label="Facebook"  className='social-icon-link facebook'>
+                        <i className="fab fa-facebook"/>
+                    </Link>
+                    <Link to='/' target="_blank" aria-label="Instagram"  className='social-icon-link facebook'>
+                        <i className="fab fa-instagram"/>
+                    </Link>
+                    <Link to='/' target="_blank" aria-label="Whatsapp"  className='social-icon-link facebook'>
+                        <i className="fab fa-whatsapp"/>
+                    </Link>
+                </div>
+                <small className='website-rights'>JWConstructionLTD 2022</small>
+            </div>
+        </section>
       </div>
 
   );
