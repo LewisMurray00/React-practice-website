@@ -1,12 +1,11 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
+import OurWorkHero from '../OurWorkHero/OurWorkHero';
 
 function OurWork() {
   return (
     <>
-        <div>
-            <h1>Our Work</h1>
-        </div> 
+        <OurWorkHero />
         <Footer /> 
     </>
   );

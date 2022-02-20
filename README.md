@@ -57,6 +57,10 @@
 - Made the footer responsive (although not happy may redo)
 - Restyled the Navbar
 
+### Day 11/12
+- Made some improvements to the Navbar
+- Changed the css for a few of the components to suit the style
+- Started work on next page
 
 
 ## React-Router-Dom Guide

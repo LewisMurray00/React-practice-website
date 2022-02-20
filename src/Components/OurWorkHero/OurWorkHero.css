@@ -1,7 +1,7 @@
-.hero-container{
+.ourwork-hero-container{
     /* background: url('/public/Images/Logo.png') center center/cover no-repeat; */
     background-color: burlywood;
-    height: 80vh;
+    height: 60vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -11,57 +11,35 @@
     object-fit: contain;
 }
 
-.hero-container > h1 {
+.ourwork-hero-container > h1 {
     font-size: 70px;
     margin-top: -100px;
     color:#fff;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.hero-container > p {
+.ourwork-hero-container > p {
     margin-top: 8px;
     color: #fff;
     font-size: 32px;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.hero-btns{
-    margin-top: 32px;
-}
-
-.hero-btns .btn {
-    margin: 6px;
-}
-
-.fa-phone{
-    margin-left: 3px;
-    font-size: 18px;
-}
-
 /* Making it responsive */
 @media screen and (max-width: 960px){
-    .hero-container > h1 {
+    .ourwork-hero-container > h1 {
         font-size: 70px;
         margin-top: -150px;
     }
 }
 
-@media screen and (max-width: 768px) {
-    .hero-container > h1 {
+@media screen and (max-width: 768px){
+    .ourwork-hero-container > h1 {
         font-size: 50px;
         margin-top: -100px;
     }
 
-    .hero-container > p {
+    .ourwork-hero-container > p {
         font-size: 30px;
-    }
-
-    .btn-mobile{
-        display: block;
-        text-decoration: none;
-    }
-
-    .btn{
-        width: 100%;
     }
 }
