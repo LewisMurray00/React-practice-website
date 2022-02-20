@@ -14,7 +14,7 @@ function HeroSection() {
             buttonStyle="btn--primary" 
             buttonSize="btn--large"
             >
-                Contact us <i className="far fa-play-circle"/>
+                Contact us <i className="fa fa-phone"/>
             </Button>
         </div>
     </div>
