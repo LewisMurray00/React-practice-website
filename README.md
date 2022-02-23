@@ -62,6 +62,10 @@
 - Changed the css for a few of the components to suit the style
 - Started work on next page
 
+### Day 13/14
+- Started editing the our work page
+- Creating a slider for images to appear on the page
+
 
 ## React-Router-Dom Guide
 

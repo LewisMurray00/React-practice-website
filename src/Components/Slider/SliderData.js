@@ -1,8 +1,8 @@
 export const SliderData = [
     {
-        image:'C:\Users\Lewis\Documents\coding-projects\react-practice-website\public\Images\0x0.png'
+        image:'Images/image3.jpeg'
     },
     {
-        image:'C:\Users\Lewis\Documents\coding-projects\react-practice-website\public\Images\image1.jpeg'
+        image:'Images/0x0.png'
     }
 ]
