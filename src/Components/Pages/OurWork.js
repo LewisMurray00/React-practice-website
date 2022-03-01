@@ -1,4 +1,5 @@
 import React from 'react';
+import { KitchenSliderData } from '../AllSliders/AllSliderData/KitchenSliderData';
 import Footer from '../Footer/Footer';
 import OurWorkHero from '../OurWorkHero/OurWorkHero';
 import ImageSlider from '../Slider/ImageSlider';
@@ -13,6 +14,13 @@ function OurWork() {
           <ImageSlider slides={SliderData}/>
           <div className="landscaping-text">
             <h1 className="landscaping-title">Landscaping</h1>
+          </div>  
+        </div>
+
+        <div className="kitchen-container">
+          <ImageSlider slides={KitchenSliderData}/>
+          <div className="kitchen-text">
+            <h1 className="kitchen-title">Kitchens</h1>
           </div>  
         </div>
         <Footer /> 
