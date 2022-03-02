@@ -30,7 +30,30 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 36px;
+}
+
+.kitchen-title{
+    font-size: 73px;
+
+}
+
+/* Styling for decorating container */
+.decorating-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.decorating-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.decorating-title{
+    font-size: 59px;
 }
 
 
@@ -68,7 +91,36 @@
     }
 
     .kitchen-text{
-        font-size: 23px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kitchen-title{
+        font-size: 40px;
+        margin-bottom: 0px;
+        padding-bottom: 10px;
+    }
+
+    /* Responsive styling for decorating container */
+    .decorating-container{
+        display: flex;
+        padding-top: 5px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .decorating-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .decorating-title{
+        font-size: 40px;
         margin-bottom: 0px;
         padding-bottom: 10px;
     }
