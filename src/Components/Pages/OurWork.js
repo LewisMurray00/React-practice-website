@@ -2,6 +2,7 @@ import React from 'react';
 import { KitchenSliderData } from '../AllSliders/KitchenSliderData';
 import { DecoratingSliderData } from '../AllSliders/DecoratingSliderData'
 import { ExtensionsSliderData } from '../AllSliders/ExtensionsSliderData'
+import { BathroomsSliderData } from '../AllSliders/BathroomsSliderData'
 import Footer from '../Footer/Footer';
 import OurWorkHero from '../OurWorkHero/OurWorkHero';
 import ImageSlider from '../Slider/ImageSlider';
@@ -37,6 +38,13 @@ function OurWork() {
           <ImageSlider slides={ExtensionsSliderData} />
           <div className="extension-text">
             <h1 className="extension-title">Extensions</h1>
+          </div>
+        </div>
+
+        <div className="bathroom-container">
+          <ImageSlider slides={BathroomsSliderData} />
+          <div className="bathroom-text">
+            <h1 className="bathroom-title">Bathrooms</h1>
           </div>
         </div>
         <Footer /> 
