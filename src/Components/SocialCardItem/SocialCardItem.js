@@ -11,7 +11,9 @@ function SocialCardItem(props) {
                     <img src={props.src} alt="Socials" className="social__cards__item__img" />
                 </figure>
                 <div>
-                    
+                    <h5 className="social__cards__item__text">
+                        {props.text}
+                    </h5>
                 </div>
             </Link>
 
