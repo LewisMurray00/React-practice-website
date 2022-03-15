@@ -1,0 +1,8 @@
+/* Css for normal size screen */
+
+.social__cards__item{
+    display: flex;
+    flex: 1;
+    margin: 0;
+    border-radius: 10px;
+}
