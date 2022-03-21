@@ -66,6 +66,13 @@
 - Started editing the our work page
 - Creating a slider for images to appear on the page
 
+### Day 14+
+- Added slide show to the our work page
+- Finished the our work page
+- Started the contact us page
+- Finished the contact us page
+- Started the review page
+
 
 ## React-Router-Dom Guide
 
