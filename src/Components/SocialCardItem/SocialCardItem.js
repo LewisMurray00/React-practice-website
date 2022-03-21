@@ -7,7 +7,7 @@ function SocialCardItem(props) {
       <>
         <li className="social__cards__item">
             <Link to={props.path} className="social__cards__item__link">
-                <figure className="social__cards__item__pic-wrap">
+                <figure className="social__cards__item__pic-wrap" data-category={props.label}>
                     <img src={props.src} alt="Socials" className="social__cards__item__img" />
                 </figure>
                 <div>

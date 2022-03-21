@@ -10,15 +10,21 @@ function SocialCards() {
           <div className="socialCards__wrapper">
             <ul className="socialCards__items">
               <SocialCardItem 
-                src="Images/0x0.png"
+                src="Images/instagram.png"
                 text="Check out our instagram here!"
                 label="Instagram"
                 path="/contact-us"
               />
               <SocialCardItem
-                src="Images/0x0.png"
+                src="Images/facebook.png"
                 text="Check out our facebook here"
                 label="Facebook"
+                path="/contact-us"
+              />
+              <SocialCardItem
+                src="Images/messageIcon.png"
+                text="Message us: 07XXXXXXXXX"
+                label="Message"
                 path="/contact-us"
               />
             </ul>
