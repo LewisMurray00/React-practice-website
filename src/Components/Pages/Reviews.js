@@ -12,9 +12,6 @@ function Reviews() {
     </div>
     <div className="review-container">
           <ImageSlider slides={ReviewSliderData} />
-          <div className="review-text">
-            <h1 className="review-title">Reviews</h1>
-          </div>
         </div>  
     <Footer />
 </>
