@@ -84,3 +84,7 @@
 ## Font-Awesome
 
 - Used this as a way to get the icons for a hamburger bar
+
+## Netlify deployed address
+
+- https://moonlit-biscuit-497934.netlify.app
