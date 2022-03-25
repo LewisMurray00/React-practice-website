@@ -7,12 +7,13 @@ import '../Pages/PagesCss/Reviews.css'
 function Reviews() {
   return (
     <>
-    <div>
+    <div className="review-title">
         <h1>Reviews</h1>
     </div>
     <div className="review-container">
           <ImageSlider slides={ReviewSliderData} />
-        </div>  
+    </div>
+
     <Footer />
 </>
   );
