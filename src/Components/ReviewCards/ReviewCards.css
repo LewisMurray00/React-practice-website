@@ -1,0 +1,32 @@
+.reviewCards {
+    padding: 4rem;
+    background: #fff;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    .review__cards__container {
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      max-width: 1120px;
+      width: 90%;
+      margin: 0 auto;
+    }
+    
+    .review__cards__wrapper {
+      position: relative;
+      margin: 50px 0 45px;
+    }
+    
+    .review__cards__items {
+      margin-bottom: 24px;
+    }
+  
+  @media only screen and (min-width: 1024px){
+      .review__cards__items{
+          display: flex;
+      }
+  }
