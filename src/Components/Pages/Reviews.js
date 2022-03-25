@@ -3,6 +3,7 @@ import Footer from '../Footer/Footer';
 import ImageSlider from '../Slider/ImageSlider'
 import {ReviewSliderData} from '../AllSliders/ReviewSliderData'
 import '../Pages/PagesCss/Reviews.css'
+import ReviewCards from '../ReviewCards/ReviewCards';
 
 function Reviews() {
   return (
@@ -13,7 +14,7 @@ function Reviews() {
     <div className="review-container">
           <ImageSlider slides={ReviewSliderData} />
     </div>
-
+    <ReviewCards />
     <Footer />
 </>
   );

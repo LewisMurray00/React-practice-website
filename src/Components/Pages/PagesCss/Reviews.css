@@ -1,3 +1,7 @@
+.review-title{
+    padding-top: 10px;
+}
+
 .review-container{
     display: flex;
     justify-content: center;
@@ -13,6 +17,6 @@
         justify-content: center;
         align-items: center;
         padding-right: 185px;
-        padding-bottom: 5px;
+
     }
 }
