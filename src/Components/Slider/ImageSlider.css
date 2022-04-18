@@ -75,3 +75,13 @@
     }
     
 }
+
+@media only screen and (max-width:460px){
+    .left-arrow{
+        display: none;
+    }
+    
+    .right-arrow{
+        display: none;
+    }
+}
