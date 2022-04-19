@@ -13,19 +13,19 @@ function SocialCards() {
                 src="Images/instagram.png"
                 text="Check out our instagram here!"
                 label="Instagram"
-                path="/contact-us"
+                path="https://www.instagram.com/jwconstructionlimited/?hl=en"
               />
               <SocialCardItem
                 src="Images/facebook.png"
                 text="Check out our facebook here"
                 label="Facebook"
-                path="/contact-us"
+                path="https://m.facebook.com/JWConstructionLimited/photos/?ref=page_internal"
               />
               <SocialCardItem
                 src="Images/messageIcon.png"
                 text="Message us: 07XXXXXXXXX"
                 label="Message"
-                path="/contact-us"
+                path="tel:+07453282039"
               />
             </ul>
           </div>

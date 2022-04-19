@@ -5,11 +5,13 @@ import Home from './Components/Pages/Home';
 import OurWork from './Components/Pages/OurWork';
 import Reviews from './Components/Pages/Reviews';
 import ContactUs from './Components/Pages/ContactUs';
+import ScrollToTop from './Components/ScrollToTop/ScrollToTop';
 
 function App() {
   return (
     <>
     <Router>
+      <ScrollToTop />
       <Navbar />
       <Routes >
         {/* See ReadMe for guide */}

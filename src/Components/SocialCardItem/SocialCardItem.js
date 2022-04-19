@@ -6,7 +6,7 @@ function SocialCardItem(props) {
   return (
       <>
         <li className="social__cards__item">
-            <Link to={props.path} className="social__cards__item__link">
+            <a href={props.path} target="_blank" className="social__cards__item__link">
                 <figure className="social__cards__item__pic-wrap" data-category={props.label}>
                     <img src={props.src} alt="Socials" className="social__cards__item__img" />
                 </figure>
@@ -15,7 +15,7 @@ function SocialCardItem(props) {
                         {props.text}
                     </h5>
                 </div>
-            </Link>
+            </a>
 
         </li>
       </>

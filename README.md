@@ -73,6 +73,9 @@
 - Finished the contact us page
 - Started the review page
 
+- Added a ScrollToTop component, allows me to navigate the pages and it will return to the top of the page
+- Fixed the contact us page links and reverted back to an anchor tag to allow for external URLs to be reached and a phone number
+
 
 ## React-Router-Dom Guide
 
