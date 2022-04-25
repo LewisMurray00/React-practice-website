@@ -1,6 +1,5 @@
 .hero-container{
-    /* background: url('/public/Images/Logo.png') center center/cover no-repeat; */
-    background-color: burlywood;
+    background: url('/public/Images/blue-construction.jpg') center center/cover no-repeat;
     height: 80vh;
     width: 100%;
     display: flex;
