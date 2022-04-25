@@ -76,6 +76,14 @@
 - Added a ScrollToTop component, allows me to navigate the pages and it will return to the top of the page
 - Fixed the contact us page links and reverted back to an anchor tag to allow for external URLs to be reached and a phone number
 
+## Future plans to finish:
+
+- Add the required images
+- Add a description to the home page
+- Restyle the "our work" section (im not happy)
+- Add the reviews images and restyle that page
+- Ensure the css fits all variety of screens
+
 
 ## React-Router-Dom Guide
 
