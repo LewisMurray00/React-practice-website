@@ -1,6 +1,6 @@
 .hero-container{
     background: url('/public/Images/blue-construction.jpg') center center/cover no-repeat;
-    height: 80vh;
+    height: 70vh;
     width: 100%;
     display: flex;
     justify-content: center;
