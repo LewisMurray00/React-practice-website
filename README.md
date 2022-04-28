@@ -76,6 +76,8 @@
 - Added a ScrollToTop component, allows me to navigate the pages and it will return to the top of the page
 - Fixed the contact us page links and reverted back to an anchor tag to allow for external URLs to be reached and a phone number
 
+- Added the about section to the home page and styled it, making it responsive.
+
 ## Future plans to finish:
 
 - Add the required images
