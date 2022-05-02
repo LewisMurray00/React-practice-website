@@ -78,11 +78,14 @@
 
 - Added the about section to the home page and styled it, making it responsive.
 
+- Added the description to the home page
+
 ## Future plans to finish:
 
 - Add the required images
-- Add a description to the home page
-- Restyle the "our work" section (im not happy)
+
+- Restyle the "our work" section (Add a little information section, spread them out a bit more) 
+
 - Add the reviews images and restyle that page
 - Ensure the css fits all variety of screens
 
