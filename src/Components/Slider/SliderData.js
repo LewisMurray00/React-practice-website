@@ -1,8 +1,12 @@
 export const SliderData = [
     {
-        image:'Images/image3.jpeg'
+        image:'Images/landscaping-1-jwconstruction.jpg'
     },
     {
-        image:'Images/0x0.png'
+        image:'Images/landscaping-2-jwconstruction.jpg'
+    },
+    {
+        image:'Images/landscaping-3-jwconstruction.jpg'
     }
+
 ]
