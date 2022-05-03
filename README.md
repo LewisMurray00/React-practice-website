@@ -80,6 +80,8 @@
 
 - Added the description to the home page
 
+- Added most of the required images and had to add brand new components to combat an issue i couldn't get round ( maybe temporary till i figure it out?)
+
 ## Future plans to finish:
 
 - Add the required images
