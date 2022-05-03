@@ -4,5 +4,8 @@ export const DecoratingSliderData = [
     },
     {
         image:'Images/0x0.png'
-    }
+    },
+    {
+        image:'Images/bathroom(1).jpeg'
+    },   
 ]
