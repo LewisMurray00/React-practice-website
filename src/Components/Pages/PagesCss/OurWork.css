@@ -4,6 +4,8 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    padding-top: 20px;
+    width: 100%;
 }
 
 .landscaping-text{
@@ -14,7 +16,7 @@
 }
 
 .landscaping-title{
-    font-size: 50px;
+    font-size: 40px;
 }
 
 /* Styling for kitchen container */

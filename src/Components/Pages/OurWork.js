@@ -13,6 +13,7 @@ function OurWork() {
   return (
     <>
         <OurWorkHero />
+
         <div className="landscaping-container">
           <ImageSlider slides={SliderData}/>
           <div className="landscaping-text">
