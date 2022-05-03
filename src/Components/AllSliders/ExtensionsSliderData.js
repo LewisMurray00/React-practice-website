@@ -1,6 +1,6 @@
 export const ExtensionsSliderData = [
     {
-        image:'Images/image3.jpeg'
+        image:'Images/extension-1-jwconstruction.jpg'
     },
     {
         image:'Images/0x0.png'

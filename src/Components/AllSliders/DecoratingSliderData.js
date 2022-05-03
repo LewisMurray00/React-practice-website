@@ -1,11 +1,8 @@
 export const DecoratingSliderData = [
     {
-        image:'Images/image3.jpeg'
+        image:'Images/decorating-1-jwconstruction.jpg'
     },
     {
-        image:'Images/0x0.png'
+        image:'Images/decorating-2-jwconstruction.jpg'
     },
-    {
-        image:'Images/bathroom(1).jpeg'
-    },   
 ]

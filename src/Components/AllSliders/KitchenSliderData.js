@@ -1,6 +1,6 @@
 export const KitchenSliderData = [
     {
-        image:'Images/image3.jpeg'
+        image:'Images/kitchen-1-jwconstruction.jpg'
     },
     {
         image:'Images/0x0.png'
